@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Disallow: /README.md
+
+# AI- и поисковые ассистенты: разрешаем индексацию для GEO
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: YandexBot
+Allow: /
+
+Host: https://delovaiakolbasa038.ru
+Sitemap: https://delovaiakolbasa038.ru/sitemap.xml
